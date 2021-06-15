@@ -1,7 +1,7 @@
 The pin connections between the Pi, the motor driver, the ultrasound sensors and the motors :
 
 Pi and MotorDriver(L298N):
-Pi Pin  |  Motor Driver
+Pi Pins  |  Motor Driver
 2       |   5v pin
 6       |   GND pin
 7       |   IN4
